@@ -1,0 +1,17 @@
+Dieser Satz(1) ist ein(2)(3) Schachtelsatz.
+    (1), den sie(4) gerade(5) lesen,
+        (4), veehrter(13) Leser,
+            (13), wenn auch nur zu einem geringen(14) Grade,
+                (14), durch die(15) Komplexität beschränten,
+                    # Dieses Format unstützt Kommentare!
+                    (15) durch die Verschachtelungstiefe enstandene
+        (5), in diesem Augenblicke,
+    (2) künstlich und programmatisch(6) erschaffener
+        (6), mit einem Tool(11) namens SentenceOverflow generierter,
+            (11), oder weniger neumodisch(12) Werkzeug,
+                (12), obwohl das ja im Moment total der Trend ist,
+    (3), zu tief(7) geschachtelter,
+        (7), und damit schwer(8) verständlicher,
+            (8), von Deutschlehrern(9) auch schwierig genannt,
+                (9), die ja bekanntlich(10) auf Korrektheit aus sind,
+                    (10), zumindest mir,
